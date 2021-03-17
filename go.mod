@@ -1,4 +1,4 @@
-module github.com/pyihe/apple_validator
+module github.com/rhinonet/apple-validator
 
 go 1.15
 
